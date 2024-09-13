@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @westphvl
 - 👀 I’m interested in learning webdev and javascript 
-- 🌱 I’m currently majoring in graphic design with a minor in content management
+- 🌱 content manager trying to expend more into coding & programming
 
 <!---
 westphvl/westphvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
